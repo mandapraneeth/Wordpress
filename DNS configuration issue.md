@@ -123,15 +123,19 @@ For more details, refer to:
 
 
 #### Direct Access Failure
-![DNS Error](Screenshot%202025-02-13%20110010.jpg)
-
-#### Access via Proxy
-![Proxy Access](Screenshot%202025-02-13%20115931.jpg)
+![DNS Error](https://github.com/mandapraneeth/Wordpress/blob/main/images/Screenshot%202025-02-13%20110010.jpg)
 
 
 ### Network Routing Check
 Analyzing network routing can help identify issues. See the routing path diagram below:
 
-![Network Routing](Screenshot%202025-02-13%20120003.jpg)
+![Network Routing](https://github.com/mandapraneeth/Wordpress/blob/main/images/Screenshot%202025-02-13%20120003.jpg)
+
+
+#### Access via Proxy
+![Proxy Access](https://github.com/mandapraneeth/Wordpress/blob/main/images/Screenshot%202025-02-13%20115931.jpg)
+
+
+
 
     
